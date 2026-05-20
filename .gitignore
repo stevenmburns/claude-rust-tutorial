@@ -22,8 +22,8 @@ bench_avl_raw_gxx_O3
 bench_avl_raw_clangxx
 bench_avl_raw_clangxx_O3
 
-# Cargo (in case we convert to a cargo project later)
-/target/
+# Cargo
+target/
 Cargo.lock
 
 # Editor / OS
