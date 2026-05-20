@@ -1,0 +1,13 @@
+# Compiled binaries from `rustc <file>.rs`
+hello
+linked_list
+drop_overflow
+drop_fixed
+
+# Cargo (in case we convert to a cargo project later)
+/target/
+Cargo.lock
+
+# Editor / OS
+*.swp
+.DS_Store
