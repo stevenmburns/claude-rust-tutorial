@@ -7,6 +7,20 @@ drop_fixed
 bench_rs
 bench_gxx
 bench_clangxx
+avl_tree
+avl_tree_cpp
+bench_avl_rs
+bench_avl_rs_O3
+bench_avl_unsafe_rs
+bench_avl_unsafe_rs_O3
+bench_avl_gxx
+bench_avl_gxx_O3
+bench_avl_clangxx
+bench_avl_clangxx_O3
+bench_avl_raw_gxx
+bench_avl_raw_gxx_O3
+bench_avl_raw_clangxx
+bench_avl_raw_clangxx_O3
 
 # Cargo (in case we convert to a cargo project later)
 /target/
