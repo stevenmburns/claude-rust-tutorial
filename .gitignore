@@ -1,8 +1,12 @@
-# Compiled binaries from `rustc <file>.rs`
+# Compiled binaries from `rustc <file>.rs` and `g++/clang++ <file>.cpp`
 hello
 linked_list
+linked_list_cpp
 drop_overflow
 drop_fixed
+bench_rs
+bench_gxx
+bench_clangxx
 
 # Cargo (in case we convert to a cargo project later)
 /target/
