@@ -21,6 +21,12 @@ bench_avl_raw_gxx
 bench_avl_raw_gxx_O3
 bench_avl_raw_clangxx
 bench_avl_raw_clangxx_O3
+bench_btreeset_rs
+bench_btreeset_rs_O3
+bench_stdset_gxx
+bench_stdset_gxx_O3
+bench_stdset_clangxx
+bench_stdset_clangxx_O3
 
 # Cargo
 target/
